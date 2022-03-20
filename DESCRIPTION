@@ -1,10 +1,10 @@
 Package: wesbox
-Title: What the Package Does (One Line, Title Case)
+Title: The toolBOX for the Whole-Exome Sequencing data analysis
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+    person("Jinjie", "Duan", , "jjduan@biomed.au.dk", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-3402-302X"))
+Description: A collection of functions used in my daily data analysis.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)

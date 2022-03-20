@@ -4,12 +4,12 @@
 \name{wesbox-package}
 \alias{wesbox}
 \alias{wesbox-package}
-\title{wesbox: What the Package Does (One Line, Title Case)}
+\title{wesbox: The toolBOX for the Whole-Exome Sequencing data analysis}
 \description{
-What the package does (one paragraph).
+A collection of functions used in my daily data analysis.
 }
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
+\strong{Maintainer}: Jinjie Duan \email{jjduan@biomed.au.dk} (\href{https://orcid.org/0000-0002-3402-302X}{ORCID})
 
 }
 \keyword{internal}
