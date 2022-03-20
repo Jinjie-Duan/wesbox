@@ -2,4 +2,5 @@
 
 export("%>%")
 export(kable_with_style)
+export(tidy_sumz)
 importFrom(magrittr,"%>%")

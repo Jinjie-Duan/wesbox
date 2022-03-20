@@ -15,8 +15,10 @@ Imports:
     ggplot2,
     kableExtra,
     magrittr,
+    metap,
     purrr,
     readr,
+    rlang,
     stringr,
     tibble,
     tidyr
